@@ -1,0 +1,4 @@
+# axum-test Shuttle configuration
+build_assets = [
+  "static",
+]
